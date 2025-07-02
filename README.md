@@ -13,12 +13,12 @@ This is a A python script that downloads any public SoundCloud track directly to
 
 # Requirements
 
-**Make sure to install scdl**
+- **Make sure to install scdl**
 
 use "pip install scdl" to install scdl on your local device.
 pip install scdl
 
-**ffmpeg**
+- **ffmpeg**
 
 <a href="https://www.gyan.dev/ffmpeg/builds/"> Click Here</a> to install ffmpeg if the code executes with error showing "ffmpeg not found".
 
