@@ -15,15 +15,15 @@ This is a A python script that downloads any public SoundCloud track directly to
 
 - **Make sure to install scdl**
 
-\t\t use "pip install scdl" to install scdl on your local device.
+'     Use "pip install scdl" to install scdl on your local device.'
 
 - **ffmpeg**
 
-\t\t <a href="https://www.gyan.dev/ffmpeg/builds/"> Click Here</a> to install ffmpeg if the code executes with error showing "ffmpeg not found".
+'     <a href="https://www.gyan.dev/ffmpeg/builds/"> Click Here</a> to install ffmpeg if the code executes with error showing "ffmpeg not found".'
 
-\t\t You might have to set up the system PATH environment variable. Install the package from the given link and after unzipping the file copy the path of the bin folder and add it to path.
+'     You might have to set up the system PATH environment variable. Install the package from the given link and after unzipping the file copy the path of the bin folder and add it to path.'
 
-\t\t Recomended to run on Collab if you avoid this installation.
+'     **Recomended to run on Collab if you avoid this installation.**'
 
 # Downloaded files
 
